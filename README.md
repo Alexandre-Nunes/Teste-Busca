@@ -3,8 +3,8 @@
 
 
 ## Para rodar o projeto localmente:
-***Clonar o projeto com:**  git clone
-***Instalar as dependências com:** npm i
-***Para rodar o teste e visualizar no browser:** npm test
-***Para rodar o teste modo headless:** npm run test:run:cucumber
-***Para gerar o relatório dos testes:** npm run report:cucumber
+<p>***Clonar o projeto com:**  git clone</p>
+<p>***Instalar as dependências com:** npm i</p>
+<p>***Para rodar o teste e visualizar no browser:** npm test</p>
+<p>***Para rodar o teste modo headless:** npm run test:run:cucumber</p>
+<p>***Para gerar o relatório dos testes:** npm run report:cucumber</p>
