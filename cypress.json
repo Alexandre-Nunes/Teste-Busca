@@ -1,0 +1,11 @@
+{
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "video":false,
+    "baseUrl": "https://site.getnet.com.br/",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
+
+
+

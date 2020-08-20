@@ -1,0 +1,63 @@
+[
+  {
+    "description": "    Passos:\n    1 - Acessar o site: https://site.getnet.com.br/\n    2 - No campo de busca(LUPA), pesquisar por superget\n    3 - No resultado da busca, clicar no link como faço a portabilidade da minha maquininha\n    4 - Verificar se a modal foi aberta com a mensagem Como faço a portabilidade da minha maquininha?",
+    "keyword": "Feature",
+    "name": "Busca",
+    "line": 1,
+    "id": "busca",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "busca;realizar-uma-busca-com-sucesso",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Realizar uma busca com sucesso",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "acesso o site da getnet",
+            "result": {
+              "status": "passed",
+              "duration": 13196000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "realizo uma busca por superget",
+            "result": {
+              "status": "passed",
+              "duration": 7412000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "acesso o link: Como acesso a minha conta SuperGet?",
+            "result": {
+              "status": "passed",
+              "duration": 7013000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "o modal deve ser exibido com a mensagem: Como acesso a minha conta SuperGet?",
+            "result": {
+              "status": "passed",
+              "duration": 83000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
