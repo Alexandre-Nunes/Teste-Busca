@@ -23,7 +23,7 @@
             "name": "acesso o site da getnet",
             "result": {
               "status": "passed",
-              "duration": 13196000000
+              "duration": 15658000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "realizo uma busca por superget",
             "result": {
               "status": "passed",
-              "duration": 7412000000
+              "duration": 6260000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "acesso o link: Como acesso a minha conta SuperGet?",
             "result": {
               "status": "passed",
-              "duration": 7013000000
+              "duration": 6819000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "o modal deve ser exibido com a mensagem: Como acesso a minha conta SuperGet?",
             "result": {
               "status": "passed",
-              "duration": 83000000
+              "duration": 58000000
             }
           }
         ]
