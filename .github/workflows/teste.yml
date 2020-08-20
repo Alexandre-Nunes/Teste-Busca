@@ -7,6 +7,8 @@ name: CI
 on:
   push:
     branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -48,5 +50,7 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@3.5.9
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: master    
+        BRANCH: master   
         FOLDER: cypress/reports 
+    
+    

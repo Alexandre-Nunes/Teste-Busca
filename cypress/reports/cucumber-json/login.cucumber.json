@@ -1,6 +1,6 @@
 [
   {
-    "description": "    Passos:\n    1 - Acessar o site: https://site.getnet.com.br/\n    2 - No campo de busca(LUPA), pesquisar por superget\n    3 - No resultado da busca, clicar no link como faço a portabilidade da minha maquininha\n    4 - Verificar se a modal foi aberta com a mensagem Como faço a portabilidade da minha maquininha?",
+    "description": "    Passos:\n    1 - Acessar o site: https://site.getnet.com.br/\n    2 - No campo de busca(LUPA), pesquisar por superget\n    3 - No resultado da busca, clicar no link Como acesso a minha conta SuperGet?\n    4 - Verificar se a modal foi aberta com a mensagem Como acesso a minha conta SuperGet? ",
     "keyword": "Feature",
     "name": "Busca",
     "line": 1,
@@ -23,7 +23,7 @@
             "name": "acesso o site da getnet",
             "result": {
               "status": "passed",
-              "duration": 15658000000
+              "duration": 15792000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "realizo uma busca por superget",
             "result": {
               "status": "passed",
-              "duration": 6260000000
+              "duration": 6683000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "acesso o link: Como acesso a minha conta SuperGet?",
             "result": {
               "status": "passed",
-              "duration": 6819000000
+              "duration": 7377000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "o modal deve ser exibido com a mensagem: Como acesso a minha conta SuperGet?",
             "result": {
               "status": "passed",
-              "duration": 58000000
+              "duration": 92000000
             }
           }
         ]

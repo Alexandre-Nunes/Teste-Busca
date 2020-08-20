@@ -28,12 +28,16 @@
   "license": "ISC",
   "devDependencies": {
     "cucumber-html-reporter": "^5.2.0",
-    "cypress": "^4.10.0",
+    "cypress": "^4.12.1",
     "cypress-cucumber-preprocessor": "^2.3.1",
     "cypress-multi-reporters": "^1.4.0",
     "mocha": "^8.1.1",
     "mochawesome": "^6.1.1",
     "mochawesome-merge": "^4.1.0",
     "mochawesome-report-generator": "^5.1.0"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "D": "^1.0.0"
   }
 }
